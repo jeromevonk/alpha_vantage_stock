@@ -72,6 +72,7 @@ def getStockValue(stock, dt):
     bRet = True
     _size = 'compact'
     
+    # The date requested can't be in the future
     if ( datetime.now() < dt ):
         print("Date requested is in the future")
         return "Data requested is in the future", False

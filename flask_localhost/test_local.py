@@ -58,3 +58,13 @@ equityValue(input)
 print("Invalid data: date too far in the past")
 input = {"AtivoNome": "GOOGL", "DataPreco": "1501-07-04"}
 equityValue(input)
+
+# g) Missing stock symbol
+print("Invalid data: missing stock symbol")
+input = {"DataPreco": "2018-07-04"}
+equityValue(input)
+
+# h) Missing date
+print("Invalid data: missing date")
+input = {"AtivoNome": "GOOGL" }
+equityValue(input)
