@@ -1,7 +1,9 @@
 # alpha_vantage_stock
 Small service to get data from [alpha vantage API](https://www.alphavantage.co/documentation/).
 
-Try it [here](https://jeromevonk.github.io/other/test_lambda.html).
+**Invoke this API at**: <https://9mj1a85khj.execute-api.sa-east-1.amazonaws.com/v1/>
+
+**Try** a front-end example [here](https://jeromevonk.github.io/other/test_lambda.html).
 
 Example input:
 
