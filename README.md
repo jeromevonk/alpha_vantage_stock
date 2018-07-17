@@ -36,7 +36,7 @@ The stock price returned as "Preco" is obtained as follows:
 - test_lambda.py : test cases with python
 - test_lambda.html: simple front-end test ([TRY IT HERE](https://jeromevonk.github.io/other/test_lambda.html))
 
-*How to use*: make a POST request to 'https://9mj1a85khj.execute-api.sa-east-1.amazonaws.com".
+How to use: make a POST request to 'https://9mj1a85khj.execute-api.sa-east-1.amazonaws.com/v1/'
 
 ## Localhost - a flask service (for initial development)
 
