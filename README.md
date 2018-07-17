@@ -14,7 +14,7 @@ Example input:
 }
 ```
 
-Example format:
+Example output:
 
 ```json
 {
